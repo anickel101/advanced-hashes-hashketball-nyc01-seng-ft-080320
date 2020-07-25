@@ -246,3 +246,5 @@ def long_name_steals_a_ton
   #Finds player with most stat (:steals) and compares to player with longest name.
   get_player_most_stat(:steals) == player_with_longest_name
 end
+
+binding.pry
